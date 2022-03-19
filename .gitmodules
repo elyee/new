@@ -1,0 +1,3 @@
+[submodule "pizza-palace"]
+	path = pizza-palace
+	url = https://github.com/kooya3/Pizza-palace.git
